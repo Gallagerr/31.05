@@ -61,16 +61,16 @@
                     <TextBlock Foreground="Black" FontSize="14"><Run Text="Нина"/></TextBlock>
                 </InlineUIContainer><LineBreak/></TextBlock>
             <TextBlock Width="102" Height="24"><InlineUIContainer>
-                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Н"/></TextBlock>
+                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Наташа"/></TextBlock>
                 </InlineUIContainer><LineBreak/></TextBlock>
             <TextBlock Width="102" Height="24"><InlineUIContainer>
-                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Галым"/></TextBlock>
+                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Виктор"/></TextBlock>
                 </InlineUIContainer><LineBreak/></TextBlock>
             <TextBlock Width="102" Height="24"><InlineUIContainer>
-                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Галым"/></TextBlock>
+                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Аян"/></TextBlock>
                 </InlineUIContainer><LineBreak/></TextBlock>
             <TextBlock Width="102" Height="24"><InlineUIContainer>
-                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Галым"/></TextBlock>
+                    <TextBlock Foreground="Black" FontSize="14"><Run Text="Султан"/></TextBlock>
                 </InlineUIContainer><LineBreak/></TextBlock>
         </ListBox>
         <TextBox HorizontalAlignment="Left" FontSize="12"  Height="24" Margin="0,26,0,0" TextWrapping="Wrap" Text="Поиск" VerticalAlignment="Top" Width="112" CharacterCasing="Lower">
